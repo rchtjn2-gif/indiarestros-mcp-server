@@ -1,0 +1,10 @@
+{
+  "name": "indiarestros",
+  "version": "1.0.0",
+  "description": "5 lakh+ Indian restaurants: menus with prices, timings, phones and dish search. Free, no API key.",
+  "mcpServers": {
+    "indiarestros": {
+      "httpUrl": "https://indiarestros.com/mcp"
+    }
+  }
+}
