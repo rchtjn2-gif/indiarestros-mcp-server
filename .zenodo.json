@@ -1,0 +1,26 @@
+{
+  "title": "IndiaRestros MCP server",
+  "upload_type": "software",
+  "description": "<p>Model Context Protocol (MCP) server for Indian restaurants, menus with rupee prices and dish search from IndiaRestros, usable from Claude, ChatGPT, Cursor and other MCP clients.</p><p>Website: <a href=\"https://indiarestros.com\">https://indiarestros.com</a><br>Source: <a href=\"https://github.com/rchtjn2-gif/indiarestros-mcp-server\">https://github.com/rchtjn2-gif/indiarestros-mcp-server</a></p>",
+  "creators": [
+    {
+      "name": "Mittal, Sunny",
+      "affiliation": "IndiaRestros"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "MCP",
+    "Model Context Protocol",
+    "India",
+    "open data",
+    "IndiaRestros"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://indiarestros.com",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ]
+}
